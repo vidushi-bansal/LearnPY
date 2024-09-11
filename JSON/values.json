@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Tim",
+      "age": 21,
+      "is_working": true
+    },
+    {
+      "id": 2,
+      "name": "Jim",
+      "age": 20,
+      "is_working": false
+    }
+  ]
+}
